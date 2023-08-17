@@ -1,6 +1,3 @@
-#name: Vamsi Lingamaneni
-#student number: 214 724 058
-
 #NonHigh data inserting them
 #NonHigh is our mu1
 NonHigh = c(1.04, 1.15, 1.23, 1.69, 1.92, 1.98, 2.36, 2.49, 2.72, 1.37, 1.43, 1.57, 1.71, 1.94, 2.06, 2.55, 2.64, 2.82)
