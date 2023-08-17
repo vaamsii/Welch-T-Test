@@ -15,19 +15,13 @@ Finally based of the information found above, I claim that “the true average f
 | p-value | 0.0255 |
 | 95% confidence interval | -0.0772 |
 
+Table 1	: Welch Two Sample t-test
 
-Sample Mean
-Sample Size
-Sample Standard deviation
-Non-High Population
-1.9261
-18
-0.5694
-High Population
-2.3778
-9
-0.5072
+| | Sample Mean | Sample Size | Sample Standard deviation |
+| ------------- | ------------- | ------------- | ------------- |
+| Non-High Population | 1.9261 | 18 | 0.5694 |
+| High Population | 2.3778 | 9 | 0.5072 |
 
-Table 1	: Welch Two Sample t-test			Table 2: descriptive statistics
+Table 2: descriptive statistics
 	
 Therefore, based on the table above, we found that the p-value is 0.0255. We know that if p < 0.05, then there is strong evidence against the null hypothesis and in this case our p = 0.026. Therefore, there is strong evidence against the null hypothesis, so I am rejecting it and going with alternative hypothesis and my claim. In addition, we can find the sample mean, size, and standard deviation using RStudio; results shown above in Table 2, the values are listed for their respective population.
