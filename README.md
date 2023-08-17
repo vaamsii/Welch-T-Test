@@ -1,6 +1,17 @@
-# Welch-T-Test
+# Welch-T-Test Report
 
-This report analyzes a continuous dataset of two populations, Low (Non-high) and High; these two populations are the two different settings for the depth (mm) of HAZ (heat affected zone) during submerged arc welding process (SAW). For this report the dataset I will be using is from question 22, from page 380 and section 9.2 of the probability and statistics textbook. The data set is important to analyze because it is a real-life example of continuous dataset where two populations are involved. Therefore, based on the observations given we can propose and evaluate a two-sample hypothesis test of our own choosing.
+This report analyzes a continuous dataset of two populations, Low (Non-high) and High; these two populations are the two different settings for the depth (mm) of HAZ (heat affected zone) during submerged arc welding process (SAW). 
+
+For this report the dataset I will be using from the article “Modeling and Predicting the Effects of Submerged Arc Weldment Process Parameters on Weldment Characteristics and Shape Profiles” (J. of Engr. Manuf., 2012: 1230–1240).
+
+Non-high: 1.04 1.15 1.23 1.69 1.92 1.98 2.36 2.49 2.72 1.37 1.43 1.57 1.71 1.94 2.06 2.55 2.64 2.82
+
+High: 1.55 2.02 2.02 2.05 2.35 2.57 2.93 2.94 2.97
+
+
+According to the article, the submerged arc welding (SAW) process is commonly used for joining thick plates and pipes. The heat affected zone (HAZ), a band created within the base metal during welding, was of particular interest to the investigators. Here are observations on depth (mm) of the HAZ both when the current setting was high and when it was lower.
+
+The data set is important to analyze because it is a real-life example of continuous dataset where two populations are involved. Therefore, based on the observations given we can propose and evaluate a two-sample hypothesis test of our own choosing.
 
 For this data set, I plotted both populations in Normal Probability plot, so we can find out if the population distribution is normal. If it is, then we can use two-sample t test to further analyze this dataset. 
 
