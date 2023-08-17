@@ -8,11 +8,12 @@ Based of both plots, we can see that there is no strong curvature for both plots
 	
 Finally based of the information found above, I claim that “the true average for HAZ depth is greater for higher current condition than non-higher condition.” Based on this claim, our mu1 is Non-high population and mu2 is High population. Our Null hypothesis is mu1 – mu2 = 0 (mu1 = mu2). Our Alternative hypothesis is mu1 – mu2 < 0 (mu1 < mu2). I did the Welch T-test on Rstudio to figure out our P-value which show us statically significance, results of the Welch T-test are shown below in Table 1.
 
-Welch t-test | Results (4 sig figs)
-Test statistic (T) | -2.0923
-Degree of Freedom | 17.9120
-p-value | 0.0255
-95% confidence interval | -0.0772
+| Welch t-test | Results (4 sig figs) |
+| ------------- | ------------- |
+| Test statistic (T) | -2.0923 |
+| Degree of Freedom | 17.9120 |
+| p-value | 0.0255 |
+| 95% confidence interval | -0.0772 |
 
 
 Sample Mean
